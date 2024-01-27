@@ -1667,3 +1667,13 @@ vendor/usr/keylayout/qpnp_pon.kl
 # Media - from santoni (Redmi 4X)
 etc/firmware/DE.o.msm8937:vendor/firmware/DE.o.msm8937
 
+# Touchscreen
+vendor/etc/hbtp/hbtpcfg.dat
+vendor/etc/hbtp/hbtpcfg2.dat
+vendor/etc/hbtp/hbtpcfg_8917.dat
+vendor/etc/hbtp/hbtpcfg_msm8937_800s_fhd.dat
+vendor/etc/hbtp/hbtpcfg_sdm450_801s_fhdp.dat
+vendor/etc/hbtp/loader.cfg
+vendor/etc/hbtp/qtc800h.bin
+vendor/etc/hbtp/qtc800s_dsp.bin
+
